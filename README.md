@@ -1,4 +1,7 @@
-#Hello 
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeyanshyolo262&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
 # GitHub README Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
